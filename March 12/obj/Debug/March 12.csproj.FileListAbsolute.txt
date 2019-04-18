@@ -1,0 +1,7 @@
+C:\Users\Cing Lun\Documents\C# Class\march 12\March 12\March 12\bin\Debug\March 12.exe.config
+C:\Users\Cing Lun\Documents\C# Class\march 12\March 12\March 12\bin\Debug\March 12.exe
+C:\Users\Cing Lun\Documents\C# Class\march 12\March 12\March 12\bin\Debug\March 12.pdb
+C:\Users\Cing Lun\Documents\C# Class\march 12\March 12\March 12\obj\Debug\March 12.csprojAssemblyReference.cache
+C:\Users\Cing Lun\Documents\C# Class\march 12\March 12\March 12\obj\Debug\March 12.csproj.CoreCompileInputs.cache
+C:\Users\Cing Lun\Documents\C# Class\march 12\March 12\March 12\obj\Debug\March 12.exe
+C:\Users\Cing Lun\Documents\C# Class\march 12\March 12\March 12\obj\Debug\March 12.pdb
